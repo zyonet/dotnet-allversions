@@ -1,4 +1,4 @@
-# Tool for showing all installed versions of .NET Core
+# Tool for showing all installed versions of .NET Core SDK
 
 Add the following reference into your project:
 
