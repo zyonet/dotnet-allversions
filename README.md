@@ -8,11 +8,11 @@ Add the following reference into your project:
    </DotNetCliToolReference>
 ```
 
-Usage:
-
+###Usage:
+```
 dotnet allversions
-
-Output:
+```
+###Output:
 ```
 Installed .Net versions are:
 Active version: 1.0.0-preview2
