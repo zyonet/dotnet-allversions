@@ -13,7 +13,7 @@ Usage:
 dotnet allversions
 
 Output:
-
+```
 Installed .Net versions are:
 Active version: 1.0.0-preview2
 
@@ -38,4 +38,5 @@ Runtime Environment:
  OS Version:  10.0.14393
  OS Platform: Windows
  RID:         win10-x64
+ ```
 
