@@ -10,8 +10,7 @@ Add the following reference into your project:
 
 Usage:
 
-```dotnet allversions
-```
+dotnet allversions
 
 Output:
 
